@@ -1,2 +1,2 @@
 # dvb-firmware
-DVB firmwares repository
+This repo contains firmware files used for DVB devices.
